@@ -1,0 +1,105 @@
+.nav-link{
+    color: black;
+}
+.btn-signin{
+    background-color: rgb(6, 158, 87);
+    color: white;
+    border-radius: 25px;
+    border: 5px solid rgb(6, 158, 87);
+    width: 80px;
+    height: 37px;
+    padding: 1px 5px;
+    font-family: Roboto;
+}
+.btn-start{
+    background-color: rgb(6, 158, 87);
+    color: white;
+    border-radius: 25px;
+    border: 5px solid rgb(6, 158, 87);
+    font-family: Roboto;
+    width: 150px;
+    height: 40px;
+}
+
+h6{
+    color: coral;
+}
+h1{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+}
+h2{
+    
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    line-height: 244px;
+}
+span{
+    color:rgb(6, 158, 87);
+}
+.top-corner{
+    background-color:#F0FFF0;
+}
+.container-fluid{
+    background-color: #F0FFF0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.col-md-3{
+    height: 200px;
+    width: 260px;
+    border: 2px solid white;
+    margin: 30px 30px;
+    box-shadow: 5px 5px 15px gray;
+    text-align: center;
+    background-color: #F0FFF0 ;
+}
+.card-title{
+    font-weight: 700;
+}
+.col-md-4 img{
+    height: 100PX;
+    width: 150PX;
+}
+.col-md-8{
+    height: 100px;
+    width: 500px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 10px 10px 20px gray;
+}
+.card img{
+    width: 390px;
+    height: 250px;
+    margin: 5px 2px;
+    padding: 10px 10px;
+    
+}
+.col-md-2{
+    width: 200px;
+    
+}
+.last{
+    width: 400px;
+    height: 200px;
+    
+}
+footer{
+    text-align: center;
+    color: white;
+}
+.last-corner{
+    background-color:  #282531;
+    
+}
+.back{
+    color: white;
+}
+.last-item{
+    padding: 50px 50px;
+}
